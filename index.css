@@ -6,7 +6,7 @@
 }
 .header{
    padding-bottom: 5px;
-   background-color: black;
+   background-color: #19183B;
    text-align: right;
 
 }
@@ -22,7 +22,7 @@
 }
 .header a{
     text-decoration: none;
-    color:white;
+    color:#E7F2EF;
 }
 .header a:hover{
     background-color: darkgray;
@@ -30,11 +30,12 @@
 }
 h3{
     text-align:center;
+    color:#19183B;
 }
 
 .footer{
-    background-color:black;
-    color:white;
+    background-color:#19183B;
+    color:#E7F2EF;
     text-align:center;
     font-size:small;
 }
